@@ -1,0 +1,17 @@
+From Data to Knowledge, Introduction to Statistical Analysis
+Foundations of Statistics, Calculus 2
+Introduction to Mathematical Statistics, Foundations of Statistics
+Design and Analysis of Sample Surveys, Introduction to Statistical Analysis
+Introduction to Regression Analysis, Introduction to Statistical Analysis
+Data Analysis in Python, Introduction to Statistical Analysis
+Data Visualization and Management, Introduction to Statistical Analysis
+Nonparametric and Rank-Based Statistics, Introduction to Statistical Analysis
+Applied Linear Models, Introduction to Statistical Analysis
+Experimental Design, Introduction to Regression Analysis
+Financial Time Series and Forecasting, Foundations of Statistics, Introduction to Regression Analysis
+Applied Analytics for Business, Introduction to Regression Analysis
+Statistical Machine Learning, Introduction to Regression Analysis
+Capstone, Introduction to Regression Analysis
+Introduction to Statistical Analysis
+Calculus 2
+Linear Algebra
