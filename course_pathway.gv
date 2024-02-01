@@ -1,6 +1,6 @@
 digraph {
-	graph [rankdir=BT ranksep=10]
-	node [fontsize=50]
+	graph [rankdir=RL ranksep=.525]
+	node [fontsize=50 nodesep=2 shape=box]
 	"From Data to Knowledge"
 	"Introduction to Statistical Analysis"
 	"Foundations of Statistics"
