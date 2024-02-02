@@ -1,0 +1,4 @@
+Fall 2022 , Introduction to Programming, Statistical Analysis
+Spring 2023, Data Structures and Algorithms 1, Discrete Math and Theory 1, Computer Systems and Organization 1
+Fall 2023, Data Structures and Algorithms 2, Computer Systems and Organization 2, Intro to Cybersecurity, Software Dev Essentials
+Spring 2024, Advanced Software Development, Virtual Worlds and Reality, Data Visualization
