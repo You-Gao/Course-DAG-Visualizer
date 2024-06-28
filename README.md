@@ -1,5 +1,12 @@
 ## Course DAG Visualizer
-I started this project for a data visualization class assignment. The goal was to reimagine/invent a way of visualizing a course degree progress. The visual focuses on the perspective of the student and how they would interact with a dashboard to ***1. look at their current degree progress***, ***2. know what courses to take next***, and ***3. find customized course plans for a career.*** Currently uses '**graphviz**' and '**networkx**' to generate + compile into an output using '**PyPDF**'.
+I started this project for a data visualization class assignment. The goal was to reimagine/invent a way of visualizing a course degree progress. 
+
+The visual focuses on the perspective of the student and how they would interact with a dashboard to:
+1. Look at their current degree progress.
+2. Know what courses to take next.
+3. Find customized course plans for a career.
+
+Currently uses '**graphviz**' and '**networkx**' to generate + compile into an output using '**PyPDF**'.
 
 ## Installation
 
