@@ -1,5 +1,3 @@
 networkx
-pandas
-seaborn
 matplotlib
 graphviz
